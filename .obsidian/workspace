@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "25593543edf438ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eef3c409192cb47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data Science Project Methodologies.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c3ccc6c69284a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "db6957a1fcae5009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a5e8a48a63ec09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "320e9bc90d403a31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ffaac597f19d7de",
+    "type": "split",
+    "children": [
+      {
+        "id": "684f5f5d3c591a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff943403fdb53045",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Science Project Methodologies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0eef3c409192cb47",
+  "lastOpenFiles": [
+    "Data Science Project Methodologies.md",
+    "Data Science Specialization.md",
+    "Data Science Tools.md",
+    "Untitled.md",
+    "Notes.md",
+    "Data Analytic Methods.md",
+    "Data Analytic Tools.md"
+  ]
+}
